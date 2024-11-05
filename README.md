@@ -27,7 +27,7 @@
 ### 🙏 Thanks for Stopping By!
 Thanks for visiting my profile! I appreciate you taking the time to check out my journey. 
 
-![Waving Goodbye](https://de.pinterest.com/pin/wave-bye-sticker-wave-bye-goodbye-discover-share-gifs--376895062574528769/)
+![Waving Goodbye](https://giphy.com/gifs/lazy-corgi-6cfHDQ4NeBk2EltWCs)
 
 ---
 
