@@ -7,7 +7,7 @@ I'm Fabi, a 25-year-old tech enthusiast with a diverse background and a strong p
 
 - 🛠️ **Former Technical Systemplanner** | Experienced in creating and managing technical drawings with **AutoCAD**.
 - 🎓 **Electrical Engineering Background** | Studied 2 semesters before pursuing a path in programming.
-- 🐍 **Aspiring Python Developer** | Currently learning Python, GitHub, and VCS at DCI.
+- 🐍 **Aspiring Python Developer** | Currently learning Python, GitHub, and Visual Studio Code at DCI.
 - 🌎 **Languages**: Fluent in German 🇩🇪 and English 🇬🇧.
 
 ---
@@ -20,7 +20,7 @@ I'm Fabi, a 25-year-old tech enthusiast with a diverse background and a strong p
 
 - **Currently Learning**:
   - Python 🐍
-  - Version control systems (VCS) 📁
+  - Visual Studio Code 📁
   - GitHub collaboration 🖥️
 
 ---
@@ -28,7 +28,7 @@ I'm Fabi, a 25-year-old tech enthusiast with a diverse background and a strong p
 ### 🌱 My Current Focus
 - 🐍 **Learning Python**: Building my skills and understanding in Python.
 - 🔄 **Improving GitHub skills**: Exploring repositories and version control.
-- 💻 **Mastering VS Code**: Getting familiar with shortcuts, extensions, and customizations.
+- 💻 **Mastering Visual Studio Code**: Getting familiar with shortcuts, extensions, and customizations.
 - 💪 **Staying active at the gym**: Keeping a balanced lifestyle with fitness.
 
 ---
