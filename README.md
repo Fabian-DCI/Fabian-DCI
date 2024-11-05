@@ -2,21 +2,41 @@
 
 ---
 
-### 🧑‍🎓 About Me
-- 🎓 **Student at DCI** | Passionate about tech, always learning something new.
-- 🐍 **Learning Python** | Currently diving into the world of coding with Python!
-- 🌱 **Growth Mindset** | Every day is a new opportunity to grow and improve.
+### 👨‍💻 About Me
+I'm Fabi, a 25-year-old tech enthusiast with a diverse background and a strong passion for learning. Here's a bit more about me:
+
+- 🛠️ **Former Technical Systemplanner** | Experienced in creating and managing technical drawings with **AutoCAD**.
+- 🎓 **Electrical Engineering Background** | Studied 2 semesters before pursuing a path in programming.
+- 🐍 **Aspiring Python Developer** | Currently learning Python, GitHub, and VCS at DCI.
+- 🌎 **Languages**: Fluent in German 🇩🇪 and English 🇬🇧.
 
 ---
 
-### 🛠️ Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+### 💼 Skills and Technologies
+- **Languages & Tools**:
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+  - ![AutoCAD](https://img.shields.io/badge/-AutoCAD-D22128?logo=autodesk&logoColor=white&style=flat-square)
+  - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
+
+- **Currently Learning**:
+  - Python 🐍
+  - Version control systems (VCS) 📁
+  - GitHub collaboration 🖥️
 
 ---
 
-### 🌱 My Current Focus
+### 🌱 Currently Working On
+```python
+def current_focus():
+    return [
+        "Learning Python 🐍",
+        "Exploring GitHub and version control systems 🔄",
+        "Building small projects and improving my coding skills 💻"
+    ]
+
+---
+
+    ### 🌱 My Current Focus
 - 🐍 **Learning Python**: Building my skills and understanding in Python.
 - 🔄 **Improving GitHub skills**: Exploring repositories and version control.
 - 💻 **Mastering VS Code**: Getting familiar with shortcuts, extensions, and customizations.
@@ -27,7 +47,7 @@
 ### 🙏 Thanks for Stopping By!
 Thanks for visiting my profile! I appreciate you taking the time to check out my journey. 
 
-![Waving Goodbye](https://giphy.com/gifs/lazy-corgi-6cfHDQ4NeBk2EltWCs)
+![Waving Goodbye](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZmMHVlcjY0OXg0cTUwa2pjanM1azIzNzF5Y3l6bXZrcGVhNzNpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HsqHkz0dARcO2eHGig/giphy.webp)
 
 ---
 
