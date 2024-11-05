@@ -1,4 +1,4 @@
-# 👋 Hello, Lurker! I'm Fabi!
+# 👋 Hello, World! I'm Fabi!
 
 ---
 
@@ -25,18 +25,7 @@ I'm Fabi, a 25-year-old tech enthusiast with a diverse background and a strong p
 
 ---
 
-### 🌱 Currently Working On
-```python
-def current_focus():
-    return [
-        "Learning Python 🐍",
-        "Exploring GitHub and version control systems 🔄",
-        "Building small projects and improving my coding skills 💻"
-    ]
-
----
-
-    ### 🌱 My Current Focus
+### 🌱 My Current Focus
 - 🐍 **Learning Python**: Building my skills and understanding in Python.
 - 🔄 **Improving GitHub skills**: Exploring repositories and version control.
 - 💻 **Mastering VS Code**: Getting familiar with shortcuts, extensions, and customizations.
@@ -52,4 +41,3 @@ Thanks for visiting my profile! I appreciate you taking the time to check out my
 ---
 
 ⭐️ Feel free to reach out or leave a star if you enjoyed my projects!
-
