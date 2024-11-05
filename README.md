@@ -17,14 +17,7 @@
 ---
 
 ### 🌱 My Current Focus
-```python
-def current_focus():
-    return [
-        "Learning Python 🐍",
-        "Improving GitHub skills 🔄",
-        "Mastering VS Code 💻",
-        "Staying active at the gym 💪"
-    ]
-
-for goal in current_focus():
-    print(goal)
+- 🐍 **Learning Python**: Building my skills and understanding in Python.
+- 🔄 **Improving GitHub skills**: Exploring repositories and version control.
+- 💻 **Mastering VS Code**: Getting familiar with shortcuts, extensions, and customizations.
+- 💪 **Staying active at the gym**: Keeping a balanced lifestyle with fitness.
